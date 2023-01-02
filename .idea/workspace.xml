@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5daef69-da88-4941-9f4c-3479fa3408ae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snake_And_Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake_And_Ladder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Employee_Wage_Computation">
+    <configuration name="Employee_Wage_Computation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee_Wage_Computation" />
+      <module name="Day_3_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Snake_And_Ladder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Snake_And_Ladder" />
       <module name="Day_3_Problems_AnswersJ" />
@@ -48,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee_Wage_Computation" />
         <item itemvalue="Application.Snake_And_Ladder" />
       </list>
     </recent_temporary>
