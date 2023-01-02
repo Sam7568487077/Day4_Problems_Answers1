@@ -4,7 +4,7 @@ public class Snake_And_Ladder {
     public static void main(String[] args) {
 
 
-            int final_position=100; int initial_position=0;
+            int final_position=100; int initial_position=0;int count=0;
             Scanner sc=new Scanner(System.in);
             System.out.println(" === Welcome to snake and ladder =====");
             System.out.println(" Your current position is" + initial_position );
@@ -313,11 +313,13 @@ public class Snake_And_Ladder {
 
                 }
 
-
+               count=count+1;
             }
+        System.out.print("The total number of times the die rolled is:" + count);
 
 
 
-        }
+
+    }
 
     }
